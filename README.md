@@ -3,7 +3,7 @@ This repository contains materials and solutions for [Data Structures and Algori
 
 This Specialization consists of 6 courses:
 
-1. [Algorithmic Toolbox]()
+1. [Algorithmic Toolbox](https://github.com/theWellHopeErr/data-structures-and-algorithms/tree/master/1.%20Algorithmic%20Toolbox)
 2. Data Structures
 3. Algorithms on Graphs
 4. Algorithms on Strings

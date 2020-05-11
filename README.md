@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-This repository contains materials and solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms "Data Structures and Algorithms Specialization"), created by UC San Diego and Higher School of Economics.
+This repository contains materials and solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms "Data Structures and Algorithms Specialization"), created by UC San Diego and Higher School of Economics in Coursera.
 
 1. [Algorithmic Toolbox](https://github.com/theWellHopeErr/data-structures-and-algorithms/tree/master/1.%20Algorithmic%20Toolbox)
 
